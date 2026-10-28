@@ -28,3 +28,7 @@ py -m streamlit run streamlit_app.py
 ```
 
 The page opens in your browser. Use your existing username/password to sign in. The web page supports transaction date/time, categories, description, monthly budget, weekly and monthly alerts, the four-week graph, and CSV download. Keep the original `expense_tracker.py` file in this folder; it remains available as the terminal version.
+
+## Sanitized sample database
+
+`sample_expenses.db` contains sample transactions and a budget, but no saved user account or password hash. To try it without changing your own data, use a fresh copy of the project, copy `sample_expenses.db` to `expenses.db`, then create an account with the username `demo_user`.
