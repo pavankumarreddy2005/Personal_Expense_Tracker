@@ -1,0 +1,5 @@
+"""Optional notification settings. Leave blank to turn off external messages."""
+EMAIL_FROM = ""
+EMAIL_TO = ""
+EMAIL_APP_PASSWORD = ""
+WHATSAPP_TO = ""
