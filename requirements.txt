@@ -1,0 +1,4 @@
+matplotlib
+pywhatkit
+streamlit
+pandas

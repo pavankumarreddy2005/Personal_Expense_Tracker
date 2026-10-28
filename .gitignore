@@ -1,0 +1,6 @@
+__pycache__/
+expenses.db
+transactions.csv
+monthly_expenses.png
+notification_settings.py
+PyWhatKit_DB.txt
